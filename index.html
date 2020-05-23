@@ -1,0 +1,65 @@
+---
+layout: default
+title: Book Blog
+---
+ 
+<!-- ----------------------------------------------------------------------------- -->
+<!-- ----------------------------------------------------------------------------- -->
+<!-- This blog is published with Jekyll 
+
+     We follow this excellent tutorial and documentation here: 
+     https://jekyllrb.com/docs/ 
+
+     The posst are in directory _posts and their file names follow this convention:
+
+     YYYY-MM-DD-NAME.html
+
+     When you finished your editing, you publish the web pages with the script in 
+     this directory mkBookBlog.sh, which uses the command
+     jekyll build
+
+     But for testing it is easer to run a local html server, which follows every 
+     update in your source file like this:
+
+     jekyll serve
+
+     and then you point your browser to  http://127.0.0.1:4000
+     and refresh (Ctrl-R) your browser window whenever you want to see the result of a 
+     change.
+       
+
+     ----------------------------------------------------------------------------- -->
+<!-- ----------------------------------------------------------------------------- -->
+
+<!-- This meta tag is needed to get the @media condition max-width in the 
+     css to work. -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<div class="titlearea">
+  <h1>Books - Read and Enjoyed</h1>
+</div>
+
+
+<!-- ----------------------------------------------------------------------------- -->
+<!-- ----------------------------------------------------------------------------- -->
+<!-- ----------------------------------------------------------------------------- -->
+<div class="blogarea">
+
+    {% for post in site.posts limit:1 %}
+
+    <div>{{ post.content  }}</div>
+  {% endfor %}
+</ul>
+
+
+
+</div>
+
+
+
+<div style="display: flex; justify-content: center;">
+  <img src="./assets/images/coffee.jpg">
+</div>
+     
+
+    

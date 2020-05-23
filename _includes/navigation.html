@@ -1,0 +1,27 @@
+<nav>
+
+  <div style="display: flex; justify-content: center;">
+    <img src="{{ 'assets/images/icon.png' | relative_url }}">
+  </div>
+     
+  <br>
+
+  <h1> Book Blog </h1>
+
+  
+  {% for post in site.posts %}
+
+      <a href="{{ post.url  | relative_url }}">{{ post.title }}</a>
+      <br><br>
+  {% endfor %}
+</ul> 
+
+  <!--
+  {% for item in site.data.navigation %}
+     <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
+    (( {{ page.url }} - {{ item.link }} ))
+    <br>
+  {% endfor %}
+    -->
+  
+</nav>

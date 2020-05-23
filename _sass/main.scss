@@ -1,0 +1,114 @@
+
+$mediawidth: 1000px;
+
+$mybrown: #dcaf72;
+$mybrownlink: brown;
+
+h1 {
+    font-size:220%;
+    font-family: sans-serif;
+    color: $mybrown;
+    font-weight: 400;
+    text-align: center;
+}
+h2 {
+    font-size:175%;
+    font-style: italic;
+    font-family: sans-serif;
+    color: $mybrown;
+    font-weight: lighter;
+}
+h3{
+    font-size:140%;
+    font-family: sans-serif;
+    color: $mybrown;
+    font-weight: 400; 
+    margin-top: -20px;
+}
+
+figure {
+    float: right;
+    display: table;
+    width: 1px; /* This can be any width, so long as it's narrower than any image */
+}
+img, figcaption {
+    display: table-row;
+}
+
+figure figcaption {
+    font-family: sans-serif;
+    font-size: small;
+    font-weight: bold;
+}
+
+body {
+    background-color: #F2F2F4;
+    margin-left: 300px;
+}
+
+.titlearea {
+    background-color: #F2F2F4;
+    width: 1000px;
+}
+
+.blogarea {
+    background-color: white;
+    width: 1000px;
+    margin: 10px;
+    border-width: 7px;
+    border-style: solid;
+    border-color: transparent;
+}
+
+nav {
+    /* background-color: green; */
+    position:fixed;
+    width: 200px;
+    top:3%;
+    left:5%;
+}
+
+nav a:link {
+    color: $mybrownlink;
+    text-decoration: none;
+
+
+}
+nav a:visited {
+        text-decoration: none;
+	color: $mybrownlink;
+
+}
+
+nav a:hover {
+    text-decoration: underline;
+    color: $mybrownlink;
+
+}
+
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+
+@media only screen and (max-width: $mediawidth) {
+    .titlearea {
+	width: $mediawidth;
+    }
+    body {
+	margin-left: 5px;
+    }
+    nav {
+	position: relative;
+	top: 3px;
+	left: 3px;
+    }
+    .blogarea {
+	width: $mediawidth;
+	margin: 2px;
+	border-width: 1px;
+    }
+}

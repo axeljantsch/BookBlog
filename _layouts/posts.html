@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ 'assets/css/styles.css' | relative_url }} ">
+  </head>
+  <body>
+    {% include navigation.html %}
+    <div markdown = "0"> 
+      <!-- This meta tag is needed to get the @media condition max-width in the 
+	   css to work. -->
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+
+      <div class="titlearea">
+	<h1>Books - Read and Enjoyed</h1>
+      </div>
+
+ 
+      <!-- ----------------------------------------------------------------------------- -->
+      <!-- ----------------------------------------------------------------------------- -->
+      <!-- ----------------------------------------------------------------------------- -->
+      <div class="blogarea">
+
+	{{ content }}
+
+	
+      </div>
+
+
+
+      <div style="display: flex; justify-content: center;">
+	<img src="{{ 'assets/images/coffee.jpg' | relative_url }}">
+      </div>
+
+    </div>
+
+  </body>
+</html>
