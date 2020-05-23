@@ -1,6 +1,6 @@
 #!/bin/sh
 
-srcDir=$HOME/developments/WebPages/BookBlog-Jekyll-4.0
+srcDir=$HOME/developments/WebPages/BookBlog-Jekyll-4.0/Github
 buildDir=$srcDir/_site
 targetDir=$HOME/Website/jantsch.se/BookBlog
 
