@@ -18,7 +18,10 @@ gem "minima", "~> 2.5"
 gem 'html-proofer'
 
 group :jekyll_plugins do
+
+  # For Atom (RSS-like) Feeds:
   gem "jekyll-feed", "~> 0.12"
+
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
