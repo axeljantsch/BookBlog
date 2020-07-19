@@ -13,7 +13,7 @@ title: "Die Brücke über die Drinia"
 <!-- ----------------------------------------------------------------------------- -->
 
 {% include image.html url="/assets/images/Bruecke-1.jpg"
-    description=""  width="200px"
+    description=""  width="300px"
     align="left" %}
 
 Das Buch behandelt in Romanform die Geschichte der Brücke von 1571 bis
@@ -37,9 +37,12 @@ Erleichterung, da der Fluss davor nur umständlich mit einer Fähre
 überquert werden konnte und je nach Wetter und Jahreszeit oft
 wochenlang gar nicht befahrbar war.
 
+{% include image.html url="/assets/images/Bruecke-2.jpg"
+    description="Von Julian Nyča - Eigenes Werk, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2623827"  width="300px"
+    align="right" %}
+
 Der beeindruckende Brückenbau, der sieben Jahre lang dauerte, ist
-auch ein Zeichen der Ambitionen des osmanischen Reiches im
-16. Jahrhundert. Das Ergebnis ist eine ästhetisch ansprechende, solide
+auch ein Zeichen der Ambitionen des osmanischen Reiches im 16. Jahrhundert. Das Ergebnis ist eine ästhetisch ansprechende, solide
 Brücke, die unbeschadet von Hochwasser und anderen
 harschen Wettersituationen der heissen Sommer und kalten Winter der
 bosnisch Berglandschaft, jahrhundertelang überdauert hat. Der Leser
@@ -73,6 +76,10 @@ wird. Spannend ist auch das jahrhundertelange Miteindander der zwei,
 später vier Religionen zu sehen: Islam, orthodoxe Christen, Katholiken
 und Juden.
 
+{% include image.html url="/assets/images/Bruecke-3.jpg"
+    description="Von Stevan Kragujević - Original uploader was Gajdario in der Wikipedia auf Serbisch, CC BY-SA 3.0 rs, https://commons.wikimedia.org/w/index.php?curid=30539074"  width="200px"
+    align="right" %}
+
 Ivo Andrić, geboren 1892 in Bosnien, in Višegrad aufgewachsen und gestorben 1975 in Belgrad, war
 nicht nur Schriftsteller sondern auch Diplomat und Politiker und hat
 sich als Diplomat im Dienste des  Königreichs Jugoslawien für die
@@ -82,9 +89,6 @@ besticht aber durch seine unpolitische Abhandlung der Geschichte
 Višegrad, ohne Beschönigung doch voll Sympathie mit der Visegrader Bevölkerung.
 
 
-{% include image.html url="/assets/images/Bruecke-3.jpg"
-    description="Von Stevan Kragujević - Original uploader was Gajdario in der Wikipedia auf Serbisch, CC BY-SA 3.0 rs, https://commons.wikimedia.org/w/index.php?curid=30539074"  width="200px"
-    align="right" %}
 
 -->
 
