@@ -85,7 +85,9 @@ Višegrad, ohne Beschönigung doch voll Sympathie mit der Visegrader Bevölkerun
 {% include image.html url="/assets/images/Bruecke-3.jpg"
     description="Von Stevan Kragujević - Original uploader was Gajdario in der Wikipedia auf Serbisch, CC BY-SA 3.0 rs, https://commons.wikimedia.org/w/index.php?curid=30539074"  width="200px"
     align="right" %}
- 
+
+
+
 -->
 
 
