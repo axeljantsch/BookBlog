@@ -16,8 +16,7 @@ title: "Die Brücke über die Drina"
     description=""  width="300px"
     align="left" %}
 
-Das Buch behandelt in Romanform die Geschichte der Brücke von 1571 bis
-1914 über die Drina in Višegrad. Heute liegt Višegrad in der Republik
+Das Buch behandelt in Romanform die Geschichte der Brücke  über die Drina in Višegrad von ihrem Baubeginn im Jahre 1571 bis zu ihrer teilweisen Zerstörung im Jahre 1914. Heute liegt Višegrad in der Republik
 Srbska in Bosnien-Herzegowina nahe an der Grenze zu Serbien. Die Stadt
 war während der ganzen beschriebenen Zeit Grenzstadt, zwischen Serben
 und Türken, zwischen Moslems und Christen, und später zwischen
