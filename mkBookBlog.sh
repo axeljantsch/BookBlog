@@ -1,5 +1,13 @@
 #!/bin/sh
 
+# For debugging:
+set -x
+
+bundle -v
+jekyll -v
+bundle exec jekyll -v
+# End debugging
+
 srcDir=$HOME/developments/WebPages/BookBlog-Jekyll-4.0/Github
 buildDir=$srcDir/_site
 targetDir=$HOME/Website/jantsch.se/BookBlog
