@@ -30,31 +30,31 @@ I första boken byggs spännigen upp på ett klyftig sätt. Berättaren är
 en portrett målare som flyttar till en ensam villa i utkanten av en
 stad tre timmar från Tokyo eftersom hans fru vill skilja sig och han
 blir helt vilse. Huset tillhör Tomohiko Amada, en berömd målare som
-nu är demens in en åldershem. Berättaren hittar en gammal målning
-från Tomohiko Amada på vinden av huset som kallas för "Mordet på
-kommendören" och som berättar om ett händelse i Wien 1938, när
-Tomohiko Amada var del av ett motståndsrörelse mot Nazi
-tyskland. Bilden utöver en magisk intryck på berättaren och sätter
-igång en hel kedja av händelser som verkar inta vara i någon
-sammanhang. Merr Menshiki dyker upp, en gåtfull person som bor i ett
+nu har flyttat till ett ålderdomshem på grund av en fortskridande demens?.
+Berättaren hittar en gammal målning från Tomohiko Amada på vinden av 
+huset som kallas för "Mordet på kommendören" och som berättar om en händelse i Wien 1938, när
+Tomohiko Amada var del av en motståndsrörelse mot Nazi
+tyskland. Bilden utövar ett magiskt intryck på berättaren och sätter
+igång en hel kedja av händelser som inte verkar ha något
+sammanhang. Herr Menshiki dyker upp, en gåtfull person som bor i ett
 jätte hus på andra sidan av berget. Herr Menshiki vill att berättaren
 målar ett porträtt av Marie, en trettonårig flicka som bor i stan
 och som möjligtvis kunde vara Herrn Menshikis dotter. Samtidigt dyker
-kommandörren från bilden upp och småpratar med berättaren. I en
-urgammal hål bakom huset hittas en bjällran som låter varje natt
+kommandörren från bilden upp och småpratar med berättaren. I ett
+urgammalt hål bakom huset hittas en bjällra som låter varje natt
 kvart i 2. Berättaren och Herr Menshiki gräver ut bjällran från
 hålet.
 
-So det är en hel del märkligheter som händer i första boken, som
+Så det är en hel del märkligheter som händer i första boken, som
 bygger upp en magisk atmosfär där gränsen mellan den uppenbara och en
 gömd verklighet suddas ut liksom mellan nutiden och det
-förflutna. Jag,  en realitets-förankrad down-to-earth läsare,
-förväntade mig att all den spänning lösas upp i andra boken, eller
-åtminstone sammanhangen förklaras. Men det blev inte så. De olika
-tråden i berättelsens spinnas vidare men gåtor löses inte och
-sammanhangen förklaras inte. På so sätt blev slutet
-otillfredsställande men jag kan inte förneka att berättelsen, eller
-skulle man säger berättelserna, är gåtfull och tillåter många olika
+förflutna. Jag, en realitets-förankrad down-to-earth läsare,
+förväntade mig att all denna spänning skulle lösas upp i andra boken, eller
+åtminstone att sammanhangen förklaras. Men det blev inte så. De olika
+trådarna i berättelsens spinnas vidare men gåtor löses inte och
+sammanhangen förklaras inte. På så sätt blev slutet
+otillfredsställande, men jag kan inte förneka att berättelsen, eller
+skulle man säga berättelserna, är gåtfulla och tillåter många olika
 tolkningar som stimulerar tänkandet och utvecklingen av alla möjliga
 hypoteser.
 
