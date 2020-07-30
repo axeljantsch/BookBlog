@@ -62,7 +62,10 @@ body {
 
 nav {
     /* background-color: green; */
-    position:fixed;
+    /* position:fixed;
+    overflow: scroll;
+    height: 100%; */
+    position: absolute;
     width: 200px;
     top:3%;
     left:5%;
