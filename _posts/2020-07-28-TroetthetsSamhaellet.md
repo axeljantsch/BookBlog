@@ -34,24 +34,24 @@ uppfinna nya former och innehåll. Det förväntas att vara innovationsrik
 och kreativ; entreprenörer, forskare, konstnärer är nutidens
 heroer. De som bara upprätthålla tillståndet, de som bara för
 vidare kunskap som ärvts från tidigare generationer är nödvändiga men
-beröms inte. De som inte uppfylla sin fulla potential, som inte hitta
+beröms inte. De som inte uppfyller sin fulla potential, som inte hittar
 sin egen väg, misslyckas.
 
 {% include image.html url="/assets/images/Troetthetssamhaellet-2.jpg"
     description=""  width="300px"
     align="right" %}
 
-Att nutiden präglas av vad man *kan* göra inte av vad man *fä* göra,
+Att nutiden präglas av vad man *kan* göra inte av vad man *få* göra,
 beskrivs av Byung-Chul Han att det domineras av positiva energi, inte
-av negativa energi. Och när alla är laddade med alt för mycket positiva
+av negativa energi. Och när alla är laddade med allt för mycket positiva
 energi och besjälat att göra extraordinära insatser, är det nästan
-oundviklig att många blir besvikna och frustrerade. När dem höga
-förväntningar uppfylls inte tröttnar man och orkar inte
-längre. Eftersom det är en allmänt fenomen menar Byung-Chul Han att
+oundviklig att många blir besvikna och frustrerade. När de höga
+förväntningarna uppfylls inte tröttnar man och orkar inte
+längre. Eftersom det är en allmän fenomen menar Byung-Chul Han att
 prestationssamhället leder till trötthetssamhället.
 
 Visserligen berör Byung-Chul Han en viktig punkt och hans analys är
-träffsäkert på flera sätt, men samtidigt generaliserar den så pass
+träffsäker på flera sätt, men samtidigt generaliserar den så pass
 mycket att den komplexiteten i nutidens livssituationer återspeglas
 inte alls. De flesta i ett modernt samhälle världen över upplever en
 livssituation som präglas mer av skillnader, väldig olika fasetter och
