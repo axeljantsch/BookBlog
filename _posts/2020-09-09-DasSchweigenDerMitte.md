@@ -52,9 +52,9 @@ und damit Entwicklungen wie nicht-gelingende Integration von
 Immigranten in vielen europäischen Großstädten, die Radikalisierung
 des politischen Islams, Antisemitismus unter islamischen Immigranten,
 unterschiedliche mentale und Situationsentwicklung von Stadt und Land,
-und und viel andere Strömungen einfach übersehen hatten. Dies führte
+und viel andere Strömungen einfach übersehen hatten. Dies führte
 schließlich zu einer Auseinanderentwicklung einer liberalen,
-global denkenden, Vielfalt und Veränderung bejaenden Schicht auf der
+global denkenden, Vielfalt und Veränderung bejahenden Schicht auf der
 einen Seite und lokal verankerten Menschen, die gerne an gewohnten
 Verhaltens- und Interaktionsmustern festhalten würden. Als diese
 "übersehenen" Entwicklungen von Populisten rechter und linker
